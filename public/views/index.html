@@ -1,0 +1,31 @@
+<!-- This page serves as the traditional layout for a JS app -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <!-- Load JS Libraries -->
+  <script type="text/javascript" src="/public/jquery/jquery-1.9.1.min.js"></script>
+  <script type="text/javascript" src="/public/js/pace.js"></script>
+  <script type="text/javascript" charset="utf-8" src="/public/api/rhoapi-modules.js"></script>
+  <script type="text/javascript" src="/public/js/application.js"></script>
+
+  <!-- Load CSS Libraries -->
+  <link rel="stylesheet" href="/public/css/bootstrap.css">
+</head>
+
+<div class="page" id="home">
+  Choose a Package
+  <!-- Define logic for multiple packages -->
+  <!-- I'm using a simple example here but you can format this however you want. -->
+  <ul>
+    <li><a href="package.html" class='custom-link'>Package #1</a></li>
+  </ul>
+</div>
+
+<!-- Make sure the shake detection is not started while selecting a package -->
+<script type="text/javascript">
+  $(function() {
+    stop();
+  })
+</script>

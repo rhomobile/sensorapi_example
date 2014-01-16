@@ -1,0 +1,7 @@
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libCoreAPI.a
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libSensor.a
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libRhoconnect-client.a
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libaudioCapture.a
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libBarcode.a
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libIndicators.a
+/Users/michaeltoews/guides/sensor_example/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libHardwareKeys.a

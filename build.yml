@@ -1,0 +1,29 @@
+sdkversion: "4.1.0"
+name: "sensor_example"
+version: "1.0"
+vendor: "rhomobile"
+build: "debug"
+bbver: "6.0"
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator7.0"
+  provisionprofile: 
+  codesignidentity: "iPhone Developer"
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.sensorexample"
+  BundleURLScheme: "sensorexample"
+wp:
+  productid: "ccac49f0-595e-0131-f68a-482a14303cd5"
+symbian:
+  uid: "0xe1b930a4"
+android:
+  version: "4.1"
+  capabilities: 
+extensions:
+  - sensor
+  - rho-javascript
+  - rhoconnect-client
+app_type: "rhoelements"
+capabilities: 
+javascript_application: true
