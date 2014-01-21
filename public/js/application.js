@@ -5,6 +5,7 @@ $(function() {
   //all links handled here
   $('body').on("click",".custom-link",function(e) {
     e.preventDefault();
+    // Use Pace for a loading indicator
     Pace.start();
     var that = e.currentTarget;
     var href = $(that).attr("href");
@@ -103,6 +104,7 @@ function stop(){
 }
 
 myShakeCallback = function() {
+  // Use Pace to add a loading indicator
   Pace.start();
   if(currentPage == "package.html")
     currentPage = "sign.html";

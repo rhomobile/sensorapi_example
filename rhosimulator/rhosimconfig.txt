@@ -1,9 +1,0 @@
-rhodes_path='/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-4.1.0.beta.14'
-app_version='1.0'
-app_name='sensor_example'
-reload_app_changes=0
-debug_port=
-debug_host='127.0.0.1'
-platform='android'
-os_version='4.0.3'
-ext_path=/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-4.1.0.beta.14/lib/commonAPI/coreapi;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-4.1.0.beta.14/lib/extensions/json;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhodes-4.1.0.beta.14/lib/commonAPI/sensor;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoconnect-client-4.1.0.beta.14/lib/../ext/rhoconnect-client;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/rhoelementsext;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/motoapi;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/barcode;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/cardreader;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/indicators;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/hardwarekeys;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p448/gems/rhoelements-4.1.0.beta.14/libs/rhoelements-license;
