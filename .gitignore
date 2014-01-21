@@ -3,6 +3,9 @@ rholog.txt
 rholog-*
 sim-*
 
+# RhoSimulator Folder
+rhosimulator/*
+
 # build output
 bin/
 public/api/generated/
